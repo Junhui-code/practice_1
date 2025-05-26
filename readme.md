@@ -1,6 +1,6 @@
-#ET0735 - Lab1 (Introduction to Git and Github)
+# ET0735 - Lab1 (Introduction to Git and Github)
 
-![7](https://github.com/user-attachments/assets/0051d3aa-aab0-422a-8303-03620ed3b131)
+![alt text](https://github.com/user-attachments/assets/0051d3aa-aab0-422a-8303-03620ed3b131)
 
 [This is a link to the images](https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method)
 
