@@ -5,7 +5,7 @@
 [This is a link to the images](https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method)
 
 1. This is an ordered list
-2. as you can see here
+2. as you can see 
 3. we have 1, 2 and 3
 
 
